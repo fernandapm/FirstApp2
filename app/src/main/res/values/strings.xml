@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <string name="title">VOICEBANK PROJECT</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+
+    <string name="preview">PREVIEW</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+
+</resources>
